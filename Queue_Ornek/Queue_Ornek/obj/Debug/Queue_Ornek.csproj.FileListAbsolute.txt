@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\bin\Debug\Queue_Ornek.exe.config
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\bin\Debug\Queue_Ornek.exe
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\bin\Debug\Queue_Ornek.pdb
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.Form1.resources
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.Properties.Resources.resources
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.exe
+G:\VisualStudio_Projeler\Queue_Ornek\Queue_Ornek\obj\Debug\Queue_Ornek.pdb
