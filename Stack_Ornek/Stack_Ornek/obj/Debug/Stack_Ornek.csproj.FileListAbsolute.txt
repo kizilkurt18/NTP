@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\bin\Debug\Stack_Ornek.exe.config
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\bin\Debug\Stack_Ornek.exe
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\bin\Debug\Stack_Ornek.pdb
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.Form1.resources
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.Properties.Resources.resources
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.exe
+G:\VisualStudio_Projeler\Stack_Ornek\Stack_Ornek\obj\Debug\Stack_Ornek.pdb
