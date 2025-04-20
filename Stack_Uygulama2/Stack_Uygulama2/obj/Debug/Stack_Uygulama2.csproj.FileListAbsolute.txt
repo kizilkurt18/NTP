@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\bin\Debug\Stack_Uygulama2.exe.config
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\bin\Debug\Stack_Uygulama2.exe
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\bin\Debug\Stack_Uygulama2.pdb
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.Form1.resources
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.Properties.Resources.resources
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.exe
+G:\VisualStudio_Projeler\Stack_Uygulama2\Stack_Uygulama2\obj\Debug\Stack_Uygulama2.pdb
