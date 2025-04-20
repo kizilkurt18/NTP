@@ -1,0 +1,10 @@
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\bin\Debug\Dictionary_Ornek.exe.config
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\bin\Debug\Dictionary_Ornek.exe
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\bin\Debug\Dictionary_Ornek.pdb
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.Form1.resources
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.Properties.Resources.resources
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.exe
+G:\VisualStudio_Projeler\Dictionary_Ornek\Dictionary_Ornek\obj\Debug\Dictionary_Ornek.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\bin\Debug\DizinMetotları.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\bin\Debug\DizinMetotları.exe
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\bin\Debug\DizinMetotları.pdb
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.exe
+D:\Desktop\masaüstü\kodlama\visual st\DizinMetotları\DizinMetotları\obj\Debug\DizinMetotları.pdb

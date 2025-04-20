@@ -1,0 +1,7 @@
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\bin\Debug\Dikdortgen_alan_cevre.exe.config
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\bin\Debug\Dikdortgen_alan_cevre.exe
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\bin\Debug\Dikdortgen_alan_cevre.pdb
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\obj\Debug\Dikdortgen_alan_cevre.csproj.AssemblyReference.cache
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\obj\Debug\Dikdortgen_alan_cevre.csproj.CoreCompileInputs.cache
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\obj\Debug\Dikdortgen_alan_cevre.exe
+E:\VScode\Dosyalar\Dikdortgen_alan_cevre\Dikdortgen_alan_cevre\obj\Debug\Dikdortgen_alan_cevre.pdb
