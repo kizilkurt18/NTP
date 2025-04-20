@@ -1,0 +1,10 @@
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\bin\Debug\AdSoyadSozlu_dizi.exe.config
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\bin\Debug\AdSoyadSozlu_dizi.exe
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\bin\Debug\AdSoyadSozlu_dizi.pdb
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.csproj.AssemblyReference.cache
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.Form1.resources
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.Properties.Resources.resources
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.csproj.GenerateResource.cache
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.csproj.CoreCompileInputs.cache
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.exe
+D:\Desktop\masaüstü\kodlama\visual st\AdSoyadSozlu_dizi\AdSoyadSozlu_dizi\obj\Debug\AdSoyadSozlu_dizi.pdb
