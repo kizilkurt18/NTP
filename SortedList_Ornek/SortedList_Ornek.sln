@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList_Ornek", "SortedList_Ornek\SortedList_Ornek.csproj", "{1D5E7291-13F6-4D3A-BAE7-EC237D95C723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5E7291-13F6-4D3A-BAE7-EC237D95C723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5E7291-13F6-4D3A-BAE7-EC237D95C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5E7291-13F6-4D3A-BAE7-EC237D95C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5E7291-13F6-4D3A-BAE7-EC237D95C723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1859DD85-8196-49CF-9617-9352294DE41B}
+	EndGlobalSection
+EndGlobal

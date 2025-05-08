@@ -1,0 +1,11 @@
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\bin\Debug\FormSınıfı_Uygulaması.exe.config
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\bin\Debug\FormSınıfı_Uygulaması.exe
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\bin\Debug\FormSınıfı_Uygulaması.pdb
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.Form1.resources
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.FormB.resources
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.Properties.Resources.resources
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.exe
+G:\VisualStudio_Projeler\FormSınıfı_Uygulaması\FormSınıfı_Uygulaması\obj\Debug\FormSınıfı_Uygulaması.pdb

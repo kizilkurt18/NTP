@@ -1,0 +1,7 @@
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\bin\Debug\SortedList_Ornek.exe.config
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\bin\Debug\SortedList_Ornek.exe
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\bin\Debug\SortedList_Ornek.pdb
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\obj\Debug\SortedList_Ornek.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\obj\Debug\SortedList_Ornek.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\obj\Debug\SortedList_Ornek.exe
+G:\VisualStudio_Projeler\SortedList_Ornek\SortedList_Ornek\obj\Debug\SortedList_Ornek.pdb
