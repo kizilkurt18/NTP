@@ -1,0 +1,11 @@
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\bin\Debug\ManualForm_Ornek.exe.config
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\bin\Debug\ManualForm_Ornek.exe
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\bin\Debug\ManualForm_Ornek.pdb
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.csproj.AssemblyReference.cache
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.Form1.resources
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.FormB.resources
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.Properties.Resources.resources
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.csproj.GenerateResource.cache
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.csproj.CoreCompileInputs.cache
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.exe
+G:\VisualStudio_Projeler\ManualForm_Ornek\ManualForm_Ornek\obj\Debug\ManualForm_Ornek.pdb
